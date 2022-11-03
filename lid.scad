@@ -1,7 +1,4 @@
-w = 63;
-l = 22;
-h = 16;
-t = 2;
+include <config.scad>
 
 module lid() {
     g = 0.2;
